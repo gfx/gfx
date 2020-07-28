@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://github-readme-stats.vercel.app/api?username=gfx&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gfx&layout=compact)
 
