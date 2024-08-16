@@ -89,7 +89,7 @@ https://github.com/xslate/p5-Text-Xslate
 
 実質的にCでフルスクラッチで開発したプログラミング処理系です。速度にフォーカスしており、Perlのテンプレートエンジンの中でも当時最速といっていい水準でした。
 
-### Android用のSQLie O/R mapper Orma (2016年頃)
+### Android用のSQLtie O/R mapper Orma (2016年頃)
 
 https://github.com/maskarade/Android-Orma
 
