@@ -79,3 +79,18 @@ Reactコンポーネントはサーバーサイドレンダリング（SSR）を
 ### コミュニケーションアプリの開発
 
 使用技術: Objective-C, Perl
+
+## 趣味領域
+
+### Perl用の高速なテンプレートエンジン Xslate (2011年頃)
+
+https://github.com/xslate/p5-Text-Xslate
+
+実質的にCでフルスクラッチで開発したプログラミング処理系です。速度にフォーカスしており、Perlのテンプレートエンジンの中でも当時最速といっていい水準でした。
+
+### Android用のSQLie O/R mapper Orma (2016年頃)
+
+https://github.com/maskarade/Android-Orma
+
+自動マイグレーション、クエリビルダーAPIをコード生成する、などの機能をもつO/R mapperで、趣味で開発したものながら当時自社アプリに採用するなどしました。
+
