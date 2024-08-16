@@ -94,3 +94,8 @@ https://github.com/maskarade/Android-Orma
 
 自動マイグレーション、クエリビルダーAPIをコード生成する、などの機能をもつO/R mapperで、趣味で開発したものながら当時自社アプリに採用するなどしました。
 
+### JavaScript向けのMessagePack library (2019年頃)
+
+https://github.com/msgpack/msgpack-javascript
+
+MessagePackのJavaScript/TypeScript実装です。このライブラリはMessagePackプロジェクトの公式実装となるべく、仕様に忠実でかつ高速な実装を目指しています。
