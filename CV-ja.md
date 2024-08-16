@@ -29,8 +29,8 @@ FastlyのCDNでは、このリバースプロキシがユーザーの すべて�
   * h2oに組み込まれたLinux seccompロジックの保守
   * 依存関係の継続的なアップデート
 * サービスの新機能の開発
-  * h2oとCのミドルウェア（Varnish）との通信を必要とする新機能
-  * h2oとRustのミドルウェア（Fastly Compute）との通信を必要とする新機能
+  * h2oとC製ミドルウェア（Varnish）との通信を必要とする新機能
+  * h2oとRust製ミドルウェア（Fastly Compute）との通信を必要とする新機能
 
 使用技術: C, HTTP, Go, Python, Perl, Ruby, shell script, Rust, GitHub Actions, Prometheus, Linux, BigQuery
 
