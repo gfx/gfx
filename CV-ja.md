@@ -1,6 +1,6 @@
 # 職務経歴書
 
-## Fastly 2019-09 ~ current - Senior Software Engineer
+## Fastly 2019-09 ~ 2024-09 - Senior Software Engineer
 
 ### リバースプロキシの開発・運用
 
