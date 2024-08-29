@@ -92,13 +92,13 @@ Reactコンポーネントはサーバーサイドレンダリング（SSR）を
 
 https://github.com/xslate/p5-Text-Xslate
 
-実質的にCでフルスクラッチで開発したプログラミング処理系です。速度にフォーカスしており、Perlのテンプレートエンジンの中でも当時最速といっていい水準でした。
+実質的にフルスクラッチで開発したプログラミング処理系です。XSというPerl用ネイティブ拡張用の言語（C + Perl API）で書かれています。速度にフォーカスしており、Perlのテンプレートエンジンの中でも当時最速といっていい水準でした。
 
-### Android用のSQLite O/R mapper Orma (2016年頃)
+### Android用のO/R mapper Orma (2016年頃)
 
 https://github.com/maskarade/Android-Orma
 
-自動マイグレーション、クエリビルダーAPIをコード生成する、などの機能をもつO/R mapperで、趣味で開発したものながら当時自社アプリに採用するなどしました。
+Android向けのO/R mapperです。クエリビルダーAPIのコード生成や自動マイグレーションなどの機能を持ちます。趣味で開発したものながら当時の自社アプリに採用するなどしました。
 
 ### JavaScript向けのMessagePack library (2019年頃)
 
