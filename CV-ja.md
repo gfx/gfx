@@ -58,7 +58,7 @@ Reactコンポーネントはサーバーサイドレンダリング（SSR）を
 
 またその他、細かい機能は自ら企画・実装・デプロイ・運用をしています。たとえば、PlantUMLをレンダリングする機能は、その企画から レンダリングサーバ ( https://github.com/bitjourney/plantuml-service Kotlin製 )の開発、インフラの整備などすべてやりました。MathJaxの導入やsyntax highlight engineの置き換え（pygments.rbからrougeへの置き換え）も行いました。
 
-使用技術: Ruby on Rails, React, TypeScript, GraphQL, Elasticsearch, PostgreSQL, PlantUML, Redis, Docker, AWS
+使用技術: Ruby, Ruby on Rails, React, TypeScript, GraphQL, Elasticsearch, PostgreSQL, PlantUML, Redis, Docker, AWS
 
 ## Cookpad, Inc. (2013-08 ~ 2016-08) - Software Engineer
 
@@ -68,13 +68,13 @@ Reactコンポーネントはサーバーサイドレンダリング（SSR）を
 
 ### レシピサービスのWeb版の開発
 
-使用技術: Ruby on Rails, MySQL, AWS
+使用技術: Ruby, Ruby on Rails, MySQL, AWS
 
 ## ConnectLink, Inc. (2013-03 ~ 2013-07) - Software Engineer
 
 ### Androidアプリの開発
 
-使用技術: Android SDK
+使用技術: Java, Android SDK
 
 ## DeNA Co., Ltd. (2011-04 ~ 2013-02) - Software Engineer
 
